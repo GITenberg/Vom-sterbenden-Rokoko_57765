@@ -1,0 +1,28 @@
+_repo: Vom-sterbenden-Rokoko_57765
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Keller, Alfred
+    gutenberg_agent_id: '49590'
+    url: http://www.gutenberg.org/2009/agents/49590
+creator:
+  author:
+    agent_name: Bartsch, Rudolf Hans
+    birthdate: 1873
+    deathdate: 1952
+    gutenberg_agent_id: '45625'
+    url: http://www.gutenberg.org/2009/agents/45625
+    wikipedia: https://de.wikipedia.org/wiki/Rudolf_Hans_Bartsch
+description: ''
+gutenberg_issued: '2018-08-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57765'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Vom sterbenden Rokoko
+url: http://www.gutenberg.org/ebooks/57765
