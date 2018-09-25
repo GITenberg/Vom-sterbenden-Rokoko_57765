@@ -5,6 +5,9 @@ contributor:
     agent_name: Keller, Alfred
     gutenberg_agent_id: '49590'
     url: http://www.gutenberg.org/2009/agents/49590
+covers:
+- cover_type: archival
+  image_path: 57765-h/images/rokoko_cover.jpg
 creator:
   author:
     agent_name: Bartsch, Rudolf Hans
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/45625
     wikipedia: https://de.wikipedia.org/wiki/Rudolf_Hans_Bartsch
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57765#Vom-sterbenden-Rokoko
 gutenberg_issued: '2018-08-24'
 gutenberg_type: Text
 identifiers:
